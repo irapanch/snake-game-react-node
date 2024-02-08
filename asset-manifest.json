@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/snake-game-react-node/static/css/main.7acaea2f.css",
-    "main.js": "/snake-game-react-node/static/js/main.07d3183d.js",
+    "main.css": "/snake-game-react-node/static/css/main.536171a3.css",
+    "main.js": "/snake-game-react-node/static/js/main.c54da0d6.js",
     "index.html": "/snake-game-react-node/index.html",
-    "main.7acaea2f.css.map": "/snake-game-react-node/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/snake-game-react-node/static/js/main.07d3183d.js.map"
+    "main.536171a3.css.map": "/snake-game-react-node/static/css/main.536171a3.css.map",
+    "main.c54da0d6.js.map": "/snake-game-react-node/static/js/main.c54da0d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.536171a3.css",
+    "static/js/main.c54da0d6.js"
   ]
 }
