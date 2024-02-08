@@ -1,16 +1,21 @@
-export const App = () => {
+import React from 'react';
+import Layout from './Layout/Layout';
+import Snake from './Snake/Snake';
+import Food from './Food/Food';
+
+import InviteModal from './Modal/Modal';
+// import Modal from 'react-modal';
+
+const App = () => {
+  // const [modalIsOpen, setModalIsOpen] = useState(true);
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <InviteModal />
+      <Layout />
+      <Food />
+      <Snake />
+    </>
   );
 };
+
+export default App;
